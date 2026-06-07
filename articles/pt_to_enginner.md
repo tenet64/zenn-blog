@@ -4,7 +4,7 @@
 emoji: "🔥"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["転職"]
-published: false
+published: true
 
 > ※この記事にはPRを含みます。
 
