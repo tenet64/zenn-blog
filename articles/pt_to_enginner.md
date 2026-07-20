@@ -234,7 +234,7 @@ published: true
 - 質問できる環境が欲しい
 - 一人だと挫折しそう
 
-<a rel="nofollow" href="[https://cl.link-ag.net/click/b71c55/74049eb4"><img](https://cl.link-ag.net/click/b71c55/74049eb4"><img) alt="★友達紹介用★超実践型オンラインプログラミングスクール【RUNTEQ（ランテック）】" src="[https://imps.link-ag.net/imp/b71c55/74049eb4](https://imps.link-ag.net/imp/b71c55/74049eb4)" /></a>
+[![★友達紹介用★超実践型オンラインプログラミングスクール【RUNTEQ（ランテック）】](https://imps.link-ag.net/imp/b71c55/74049eb4)](https://cl.link-ag.net/click/b71c55/74049eb4)
 
 ## こんな人にはおすすめしない
 
